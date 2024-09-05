@@ -1,0 +1,21 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "cmake.configureOnOpen": true,
+    "java.project.sourcePaths": [
+        ".2D-array",
+        ".array",
+        ".Arraylist",
+        ".basic",
+        ".bit_manipulation",
+        ".linklist",
+        ".oops",
+        ".pattern",
+        ".searching",
+        ".sorting",
+        ".special",
+        ".stack",
+        ".String",
+        "test2"
+    ],
+    "java.project.referencedLibraries": []
+}
